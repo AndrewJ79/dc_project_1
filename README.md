@@ -1,6 +1,7 @@
 # dc_project_1
 
 Economic Impact on Consumer Auto Loans - Data Analysis Project
+Contributors: Andrew Jaynes, Brian Buxton, and Riley Hutchinson
 
 Overview
 
